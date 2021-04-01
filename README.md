@@ -9,7 +9,9 @@ Created using jersey java.
 ## Endpoints
 
 users/add
+
 users/review
+
 movies/addmovie
 
 ## About
