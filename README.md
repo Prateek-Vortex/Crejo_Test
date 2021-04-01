@@ -1,7 +1,21 @@
-# Profile_API
-Created the API's for handling profiles and messages through jersey Java.
+#Intro
 
-Created the CRUD operations in rest api's through jersey.
+Created three end points for adding users, adding movie, and adding reviews.
 
-Added pagination and other filtering options for the client's ease.
+##Used 
+
+Created using jersey java.
+
+##Endpoints
+
+users/add
+users/review
+movies/addmovie
+
+##About
+
+Add user consumes string as input and displays succes message.
+Add movie consumes string as input and displays succes message.
+Add review consumes Json as input and displays succes message.
+
 
