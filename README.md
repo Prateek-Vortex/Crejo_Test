@@ -1,18 +1,18 @@
-#Intro
+# Intro
 
 Created three end points for adding users, adding movie, and adding reviews.
 
-##Used 
+## Used 
 
 Created using jersey java.
 
-##Endpoints
+## Endpoints
 
 users/add
 users/review
 movies/addmovie
 
-##About
+## About
 
 Add user consumes string as input and displays succes message.
 Add movie consumes string as input and displays succes message.
