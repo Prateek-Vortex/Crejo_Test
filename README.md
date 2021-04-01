@@ -17,7 +17,9 @@ movies/addmovie
 ## About
 
 Add user consumes string as input and displays succes message.
+
 Add movie consumes string as input and displays succes message.
+
 Add review consumes Json as input and displays succes message.
 
 
